@@ -1,9 +1,9 @@
 # Assignment 2: Weakly Supervised Object Localization
 
-- [Visual Learning and Recognition (16-824) Spring 2021](https://visual-learning.cs.cmu.edu/)
+- [Visual Learning and Recognition (16-824) Fall 2021](https://visual-learning.cs.cmu.edu/)
 - Updated by: [Sanil Pande](https://sanilpande.github.io/)
 - Created by : [Senthil Purushwalkam](http://www.cs.cmu.edu/~spurushw/)
-- TAs: [Sanil Pande](https://sanilpande.github.io/), [Sudeep Dasari](https://sudeepdasari.github.io/), [Ziyan Wang](https://ziyanw1.github.io/)
+- TAs: Helen Jiang, Jielin Qiu
 
 - We will be keeping an updated FAQ on piazza. Please check the FAQ post before posting a question.
 - Due date: March 29th, 2021 at 11:59pm EST.
