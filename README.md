@@ -6,7 +6,7 @@
 - TAs: Helen Jiang, Jielin Qiu
 
 - We will be keeping an updated FAQ on piazza. Please check the FAQ post before posting a question.
-- Due date: March 29th, 2021 at 11:59pm EST.
+- Due date: TBD 11:59pm EST.
 - Total points: 100
 
 In this assignment, we will learn to train object detectors in the *weakly supervised* setting, which means you're going to train object detectors without bounding box annotations!
