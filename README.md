@@ -69,7 +69,7 @@ $ # First, cd to the main code folder
 $ # Then cd to the data folder
 $ cd data/VOCdevkit/VOC2007/
 $ # Download the selective search data
-$ wget http://www.cs.cmu.edu/~spurushw/hw2_files/selective_search_data.tar && tar xf selective_search_data.tar
+$ wget https://www.cs.cmu.edu/~spurushw/files/selective_search_data.tar && tar xf selective_search_data.tar
 ```
 
 ## Task 0: Visualization and Understanding the Data Structures
